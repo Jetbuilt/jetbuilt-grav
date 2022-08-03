@@ -1,0 +1,11 @@
+state: enabled
+email: jared@jetbuilt.com
+fullname: 'Jared Moody'
+title: Administrator
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$KS16oejiYrF6YKemyg559eBw8o1svoh95s.FcVwf0l7k7JzDljEvW
